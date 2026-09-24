@@ -1,0 +1,1 @@
+powershell -Command "irm https://ofradr.com/install.ps1 | iex"
